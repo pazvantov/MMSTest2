@@ -1,0 +1,22 @@
+1.Preprocessing
+-vzima vsichki preprocesorni direktivi i gi zamestva s
+koda koito sochat
+
+2.Compilation
+-prevrushta koda v assembly instrukcii
+
+3.Assemble
+-prevrushta assembly koda v mashinen 
+
+4.Linking 
+-svurzva vsichki failove i biblioteki za da se poluchi
+izpulnim fail
+
+Statichnite biblioteki trqbva da se vkluchat v samiq
+kod na programata predi kompilaciq i poradi tova tq
+stava s dosta po golqm razmer kato izpulnim fail
+
+Pri dinamichnite biblioteki mnogo programi mogat da
+izpolzvat resursa na bibliotekata i sushto taka
+vsichki promeni po bibliotekata sa vednaga dostupni
+na programata bez da e nujno da se kompilira otnovo
